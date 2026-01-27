@@ -5,3 +5,6 @@ Intro.CH1 ==> https://github.com/First-555/BSC_DPDM2025/blob/main/01Intro.pdf
 
 
 Data Mining.CH2 ==> https://github.com/First-555/BSC_DPDM2025/blob/main/02Data.pdf
+
+
+Data Preprocessing ==> https://github.com/First-555/BSC_DPDM2025/blob/main/03Preprocessing.pdf
